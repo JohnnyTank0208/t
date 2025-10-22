@@ -1,2 +1,2 @@
 # Test img-bed repo
-This a img-bed repository for PigGo.
+This is a img-bed repository for PigGo.
